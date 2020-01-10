@@ -2,7 +2,7 @@
 
 # Curso de JavaScript Moderno do básico ao avançado (udemy)
 
-- [ ] Javascript básico (variáveis e coisas básicas de programação)
+- [X] Javascript básico (variáveis e coisas básicas de programação)
 
 - [ ] Javascript com lógica de programação (estruturas condicionais, de repetição e mais)
 
