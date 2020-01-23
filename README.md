@@ -4,7 +4,7 @@
 
 - [X] Javascript básico (variáveis e coisas básicas de programação)
 
-- [ ] Javascript com lógica de programação (estruturas condicionais, de repetição e mais)
+- [X] Javascript com lógica de programação (estruturas condicionais, de repetição e mais)
 
 - [ ] Javascript orientado a objetos (classes, funções construtoras, factory functions, e mais)
 
